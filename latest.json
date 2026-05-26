@@ -2,10 +2,10 @@
     "platforms":  {
                       "windows-x86_64":  {
                                              "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdnpTWVFNMkFnM1Q1OGVCNW9tOWxyNDNGU3Z4S0ZEejZmTlVqcGpZRjZFOEFkYnB1V3lTb01vc0xhVE44WGVPdWJ5OHNPbDRzOHBhRlFVV0NnMnZHZW5sN3RmelVUY0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzU5MDk2CWZpbGU6VmlyZWwgVjJfMi41LjBfeDY0LXNldHVwLmV4ZQpRb05oU0hGV0V0V3U0VXg5OFhVcHhFYXhnNC9XMVhvT2FhL1Y4R1Q0YTl3RFdEY1dCZXZ3aVB2ME50WktqTVYxK3VhZ2Y0Mzdka29WZmxyZmEzczVDdz09Cg==",
-                                             "url":  "https://github.com/Nokrima/Virel/releases/download/v2.5.0/Virel V2_2.5.0_x64-setup.exe"
+                                             "url":  "https://github.com/Nokrima/virel-updater/releases/download/v2.5.0/Virel V2_2.5.0_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-05-26T04:37:55Z",
+    "pub_date":  "2026-05-26T04:44:20Z",
     "version":  "2.5.0",
     "notes":  "Hata dÃ¼zeltmeleri ve performans iyileÅŸtirmeleri."
 }
