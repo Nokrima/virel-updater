@@ -1,11 +1,11 @@
 ﻿{
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdnpTWVFNMkFnM1Q1OGVCNW9tOWxyNDNGU3Z4S0ZEejZmTlVqcGpZRjZFOEFkYnB1V3lTb01vc0xhVE44WGVPdWJ5OHNPbDRzOHBhRlFVV0NnMnZHZW5sN3RmelVUY0EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzU5MDk2CWZpbGU6VmlyZWwgVjJfMi41LjBfeDY0LXNldHVwLmV4ZQpRb05oU0hGV0V0V3U0VXg5OFhVcHhFYXhnNC9XMVhvT2FhL1Y4R1Q0YTl3RFdEY1dCZXZ3aVB2ME50WktqTVYxK3VhZ2Y0Mzdka29WZmxyZmEzczVDdz09Cg==",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdnpTWVFNMkFnM1hTcmJCTEkyUDlzVDhEYm1ZMjcrUFhmR2s2NXFHY0VudGJ1ZDlSaTlZWklnbHU5T2I4Q2EyTXgyTUJUNUN1RGhHRmhEcHk2SnJkcEtpNk9jaUx4WkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NzY0NDQ3CWZpbGU6VmlyZWwgVjJfMi41LjBfeDY0LXNldHVwLmV4ZQpPb2t6RG85ZldpNHNodnlVNXhXd0tYNDlQSFkwTll0YnF3V0JDeks0V04wN3QvdmVaUFNNcFVuOW5tL3lPSGFFLzFQa3JuT3NzcE82b2RiaGRjc2lDQT09Cg==",
                                              "url":  "https://github.com/Nokrima/virel-updater/releases/download/v2.5.0/Virel V2_2.5.0_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-05-26T04:44:20Z",
+    "pub_date":  "2026-05-26T06:00:56Z",
     "version":  "2.5.0",
-    "notes":  "Hata dÃ¼zeltmeleri ve performans iyileÅŸtirmeleri."
+    "notes":  "Virel V2 (v2.5.0) Büyük Mimari Guncellemesi: Nuitka (C++) çekirdek korumasi, Native Updater (sessiz guncelleme) ve sistem iyilestirmeleri eklendi."
 }
